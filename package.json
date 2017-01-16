@@ -1,0 +1,17 @@
+{
+  "name": "img_search_abstraction",
+  "version": "1.0.0",
+  "description": "Fourth Backend API project for freeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.21",
+    "mongoose": "^4.7.7"
+  }
+}
