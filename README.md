@@ -2,5 +2,5 @@
 
 ### Fourth Backend API project for freeCodeCamp
 
-### __[The App](https://img-.herokuapp.com/)__
+### __[The App](https://img-searchabs.herokuapp.com/)__
 
